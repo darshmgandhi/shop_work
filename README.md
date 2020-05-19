@@ -1,3 +1,5 @@
+![Travis (.org)](https://img.shields.io/travis/LeonEstrak/shop_work?logo=Travis&style=for-the-badge)
+
 # shopwork
 
 Operating Systems Project
