@@ -15,3 +15,6 @@ install:
   - ./flutter/bin/flutter pub get
 script:
   - ./flutter/bin/flutter build aot
+cache:
+  directories:
+    - $HOME/.pub-cache
