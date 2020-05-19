@@ -1,4 +1,4 @@
-![Travis (.org)](https://img.shields.io/travis/LeonEstrak/shop_work?logo=Travis&style=for-the-badge)
+![Travis (.com)](https://img.shields.io/travis/com/LeonEstrak/shop_work?logo=Travis&style=for-the-badge)
 
 # shopwork
 
